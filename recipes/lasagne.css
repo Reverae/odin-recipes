@@ -1,3 +1,50 @@
 html {
     font-size: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+#intro{
+    text-align: center;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.3;
+  text-align: left;
+  color: #333;
+  margin: 10;
+}
+
+ul,
+ol {
+    max-width: 350px;
+    margin: 0 auto auto 0px;
+    text-align: left;
+    line-height: 1.3;
+  }
+
+#steps {
+    margin-top: 40px;
+}
+
+#ingredients {
+    margin-top: 40px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #image {
+    width: 700px;
+    max-width: 100%;
+    height: auto;
+  }
